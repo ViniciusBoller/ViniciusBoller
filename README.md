@@ -1,5 +1,5 @@
 
-### Olá! Eu sou o Vinícius Boller
+### Olá! Eu sou o Vinícius Boller!
 #### Sou um programador Front-end, atualmente aprendendo e criando projetos na busca de expandir meu conhecimento!
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vin%C3%ADcius-boller-5783b426b/)
@@ -7,7 +7,7 @@
 
 ![Vinícius GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusBoller&show_icons=true&theme=dark)
 
-## Tecnologias Que Utilizo
+## Tecnologias Que Utilizo:
 
 <div style="display: inline_block"><br>
 
